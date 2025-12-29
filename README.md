@@ -1,2 +1,0 @@
-# Presentations
-Talks and such
