@@ -1,3 +1,7 @@
+Signatures? Heuristics? Side-channel monitoring? Syscall scans? How the hell is it even possible to cheat in a video game anymore? The infamous cat-and-mouse game between cheaters and developers is never ending. We’ll be talking about the history of anti-cheats and how the newer method of Direct Memory Access (DMA) has been gaining traction in recent years.
+
+We’ll explore the mechanics of DMA and its implications for game exploitation. DMA allows certain hardware components to access system memory independently of the CPU, leveraging the ability to read and write to game memory in real-time without triggering a conventional anti-cheat. Furthermore, we’ll explore the technical challenges that DMA presents to anti-cheat engineers, including the need for advanced detection techniques in the ever-evolving world of security.
+
 cyphercon 4/3/25:
 - abstract: https://cyphercon.com/presentation/not-fair1-bypassing-anti-cheat-with-direct-memory-access/
 - youtube: https://www.youtube.com/watch?v=ICKDWryepFg
